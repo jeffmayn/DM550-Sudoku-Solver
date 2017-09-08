@@ -1,3 +1,3 @@
 # java-sudoku-solver
-A sudoku solver with GUI written in java
-(will be uploading soon)
+Part of my exam for DM550. This project is a sudoku solver capable of finding the solution for any sudoku puzzle.
+
